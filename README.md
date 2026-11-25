@@ -213,31 +213,6 @@ This provides additional transparency into model behaviour rather than treating 
 
 ---
 
-🚀 Getting Started
-
-Follow these steps to explore the project locally.
-
-1. Clone the Repository
-
-git clone https://github.com/YOUR-USERNAME/JALWEALTH-AI.git
-
-2. Navigate to the Project Directory
-
-cd JALWEALTH-AI
-
-3. Install Dependencies
-
-pip install pandas numpy matplotlib seaborn scikit-learn shap jupyter openpyxl
-
-4. Launch Jupyter Notebook
-
-jupyter notebook
-
-5. Open the Project Notebook
-
-Open the main Jupyter Notebook in the repository and execute the cells in sequential order.
-
-Note: Ensure that the required dataset files are available in the correct project directories before running the notebook.
 
 ---
 

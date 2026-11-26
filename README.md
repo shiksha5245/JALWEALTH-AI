@@ -17,7 +17,22 @@ Its primary objective is to transform raw business and operational data into mea
 Developed using Python and Jupyter Notebook, JALWEALTH AI demonstrates how data analytics and AI techniques can support informed decision-making in a sustainability-focused business model.
 
 ---
+## 📸 Project Screenshots
 
+### Interactive Dashboard
+![JALWEALTH AI Dashboard](Images/dashboard.png)
+
+### System Architecture
+![System Architecture](Images/architecture.png)
+
+### Revenue Analysis
+![Revenue Analysis](Images/revenue_analysis.png)
+
+### Environmental Analysis
+![Environmental Analysis](Images/environmental_analysis.png)
+
+
+---
 🎯 Problem Statement
 
 Sustainable product-based businesses involve multiple interconnected areas, including product sales, profitability, financial performance, resource utilization, and manufacturing operations.

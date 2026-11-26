@@ -213,6 +213,9 @@ This provides additional transparency into model behaviour rather than treating 
 
 ---
 
+📂 Dataset Disclaimer
+
+As a verified real-world dataset was not available from online sources for this project, I created an Excel dataset with the assistance of AI. The dataset is synthetic and was used for project development, data analysis, visualization, and machine learning demonstrations. It does not represent actual real-world records.
 
 ---
 
